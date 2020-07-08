@@ -2,7 +2,7 @@
 FROM node:boron
 
 # The Dockerfile's author
-LABEL Usama Ashraf
+LABEL Liam Percy
 
 # Create a directory in the container where the code will be placed
 RUN mkdir -p /backend-dir-inside-container
